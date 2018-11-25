@@ -7,7 +7,7 @@
 
     <meta name="yandex-verification" content="00d98bf50974d4bf" />
 
-    <link href="{{ asset("css/noty.css") }}" rel="stylesheet">
+    <link href="/stylesheets/noty.css" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
 
@@ -22,8 +22,8 @@
         }
     </style>
 
-    <script src="{{ asset("js/bounce.js") }}"></script>
-    <script src="{{ asset("js/noty.js") }}"></script>
+    <script src="/javascripts/bounce.js"></script>
+    <script src="/javascripts/noty.js"></script>
 
     <script src="https://js.pusher.com/4.3/pusher.min.js"></script>
     <script>
